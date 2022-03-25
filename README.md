@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LubnaIshaq
+- 👋 Hi, I’m Lubna Ishaq
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on different projects
